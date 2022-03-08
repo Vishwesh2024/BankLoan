@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'bankloan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6CA35ED8F39B41FA9BE3F5524C08FFA7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E112A93696804A6C916F49F0AD061BDA }}
